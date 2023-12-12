@@ -40,8 +40,8 @@ def get_comments_from_api(youtube, video_id, username, comments=[], token=''):
     else:
         return comments
 
-# Hard-code the API key
-api_key = 'AIzaSyCKdZA_JhVm_lElLxbUtRp9g3UM5DujadM'
+# add your api key here
+api_key = ''
 
 # Build the YouTube service
 youtube = build('youtube', 'v3', developerKey=api_key)
