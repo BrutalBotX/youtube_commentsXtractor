@@ -32,7 +32,7 @@ Then follow these screenshots to get your API key:
 
 I've provided both CLI and GUI versions, so you run try any of them.
 
-For CLI, make sure that google-api-python-client and urllib is installed. If not run this:
+For CLI, make sure that google-api-python-client and urllib is installed. If not, run this:
 ```bash
   pip install google-api-python-client
 
