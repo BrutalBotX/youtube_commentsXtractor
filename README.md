@@ -17,7 +17,7 @@ Then follow these screenshots to get your API key:
 3. Enable it.
 ![App Screenshot](https://github.com/BrutalBotX/youtube_commentsXtractor/blob/main/Screenshot/Screenshot%202023-12-12%20120213.png?raw=true)
 
-4. Click the Create 'Credentials button'.
+4. Click the 'Create Credentials' button.
 ![App Screenshot](https://github.com/BrutalBotX/youtube_commentsXtractor/blob/main/Screenshot/Screenshot%202023-12-12%20120306.png?raw=true)
 
 5. Click 'Public data' and then click 'next'.
