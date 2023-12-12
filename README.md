@@ -75,4 +75,4 @@ GUI:
 
 ## Flowchart
 
-![App Screenshot](https://github.com/BrutalBotX/youtube_commentsXtractor/blob/main/Screenshot/Untitled%20Diagram.drawio.png?raw=true)
+![App Screenshot](![yt_flow](https://github.com/BrutalBotX/youtube_commentsXtractor/assets/89546041/f40e5a4b-4723-46d5-8404-35ce45b52959)
