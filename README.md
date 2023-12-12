@@ -63,7 +63,7 @@ python yt_comments_ui.py
 
 Youtube comments section:
 
-![App Screenshot](https://github.com/BrutalBotX/youtube_commentsXtractor/blob/main/Screenshot/Screenshot%202023-12-12%20124923.png?raw=true)
+![yt Screenshot](https://github.com/BrutalBotX/youtube_commentsXtractor/blob/main/Screenshot/Screenshot%202023-12-12%20124923.png?raw=true)
 
 CLI: 
 
@@ -75,4 +75,4 @@ GUI:
 
 ## Flowchart
 
-![App Screenshot](![yt_flow](https://github.com/BrutalBotX/youtube_commentsXtractor/assets/89546041/f40e5a4b-4723-46d5-8404-35ce45b52959)
+![yt_flow](https://github.com/BrutalBotX/youtube_commentsXtractor/assets/89546041/f40e5a4b-4723-46d5-8404-35ce45b52959)
