@@ -24,7 +24,8 @@ def get_comments(youtube, video_id, username, comments=[], token=''):
     else:
         return comments
 
-api_key = 'AIzaSyCKdZA_JhVm_lElLxbUtRp9g3UM5DujadM'
+# add your api key here
+api_key = ''
 
 # Get the video ID and username from the user
 video_id = input('Enter the video ID: ')
