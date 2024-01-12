@@ -17,7 +17,7 @@ Then follow these screenshots to get your API key:
 3. Enable it.
 ![App Screenshot](https://github.com/BrutalBotX/youtube_commentsXtractor/blob/main/Screenshot/Screenshot%202023-12-12%20120213.png?raw=true)
 
-4. Click the 'Create Credentials' button.
+4. Click the Create 'Credentials button'.
 ![App Screenshot](https://github.com/BrutalBotX/youtube_commentsXtractor/blob/main/Screenshot/Screenshot%202023-12-12%20120306.png?raw=true)
 
 5. Click 'Public data' and then click 'next'.
@@ -26,13 +26,16 @@ Then follow these screenshots to get your API key:
 6. Copy your API key and then come out of there.
 ![App Screenshot](https://github.com/BrutalBotX/youtube_commentsXtractor/blob/main/Screenshot/Screenshot%202023-12-12%20120422.png?raw=true)
 
+7. Paste your API key in the python code you're trying to run (There'll be a comment beside it, to make it easy to find)
+
+8. (For yt_cmall_ui.py) Make sure you put in the location of the frame0 folder you download from here, in the python file, it should also be commented for easy access
 
     
 ## Deployment
 
 I've provided both CLI and GUI versions, so you run try any of them.
 
-For CLI, make sure that google-api-python-client and urllib is installed. If not, run this:
+For CLI, make sure that google-api-python-client and urllib is installed. If not run this:
 ```bash
   pip install google-api-python-client
 
@@ -59,20 +62,28 @@ python yt_comments.py
 ```javascript
 python yt_comments_ui.py
 ```
+#GUI (All comments version)
+```javascript
+python yt_cmall_ui.py
+```
+
 ## Screenshots
 
 Youtube comments section:
-
-![yt Screenshot](https://github.com/BrutalBotX/youtube_commentsXtractor/blob/main/Screenshot/Screenshot%202023-12-12%20124923.png?raw=true)
+![App Screenshot](https://github.com/BrutalBotX/youtube_commentsXtractor/blob/main/Screenshot/Screenshot%202023-12-12%20124923.png?raw=true)
 
 CLI: 
-
 ![App Screenshot](https://github.com/BrutalBotX/youtube_commentsXtractor/blob/main/Screenshot/Screenshot%202023-12-12%20124606.png?raw=true)
 
 GUI:
-
 ![App Screenshot](https://github.com/BrutalBotX/youtube_commentsXtractor/blob/main/Screenshot/Screenshot%202023-12-12%20124724.png?raw=true)
+
+GUI(All comments version):
+![App Screenshot](https://github.com/BrutalBotX/youtube_commentsXtractor/blob/main/Screenshot/Screenshot%202024-01-12%20201425.png?raw=true)
+
+Exported CSV file:
+![App Screenshot](https://github.com/BrutalBotX/youtube_commentsXtractor/blob/main/Screenshot/Screenshot%202024-01-12%20201445.png?raw=true)
 
 ## Flowchart
 
-![yt_flow](https://github.com/BrutalBotX/youtube_commentsXtractor/assets/89546041/f40e5a4b-4723-46d5-8404-35ce45b52959)
+![App Screenshot](https://github.com/BrutalBotX/youtube_commentsXtractor/blob/main/Screenshot/Untitled%20Diagram.drawio.png?raw=true)
