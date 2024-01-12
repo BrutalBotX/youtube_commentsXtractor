@@ -11,7 +11,7 @@ ASSETS_PATH = OUTPUT_PATH / Path(r"") #Enter the path to the frame0 folder here
 def relative_to_assets(path: str) -> Path:
     return ASSETS_PATH / Path(path)
 
-API_KEY = 'AIzaSyCKdZA_JhVm_lElLxbUtRp9g3UM5DujadM'  # Replace with your YouTube API key
+API_KEY = ''  # Replace with your YouTube API key
 API_SERVICE_NAME = 'youtube'
 API_VERSION = 'v3'
 
