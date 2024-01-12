@@ -76,6 +76,7 @@ CLI:
 ![App Screenshot](https://github.com/BrutalBotX/youtube_commentsXtractor/blob/main/Screenshot/Screenshot%202023-12-12%20124606.png?raw=true)
 
 GUI:
+
 ![App Screenshot](https://github.com/BrutalBotX/youtube_commentsXtractor/blob/main/Screenshot/Screenshot%202023-12-12%20124724.png?raw=true)
 
 GUI(All comments version):
